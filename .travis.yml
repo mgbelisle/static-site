@@ -1,4 +1,5 @@
 language: go
+script: sleep 600
 env:
   global:
     # FOO
